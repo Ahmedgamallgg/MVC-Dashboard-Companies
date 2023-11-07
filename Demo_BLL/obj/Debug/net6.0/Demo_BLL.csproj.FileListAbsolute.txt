@@ -1,0 +1,15 @@
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\bin\Debug\net6.0\Demo_BLL.deps.json
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\bin\Debug\net6.0\Demo_BLL.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\bin\Debug\net6.0\Demo_BLL.pdb
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\bin\Debug\net6.0\Demo_Dal.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\bin\Debug\net6.0\Demo_Dal.pdb
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.csproj.AssemblyReference.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.AssemblyInfoInputs.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.AssemblyInfo.cs
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.csproj.CoreCompileInputs.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.csproj.CopyComplete
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\refint\Demo_BLL.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\Demo_BLL.pdb
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_BLL\obj\Debug\net6.0\ref\Demo_BLL.dll

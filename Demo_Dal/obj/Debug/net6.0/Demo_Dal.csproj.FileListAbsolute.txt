@@ -1,0 +1,12 @@
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\bin\Debug\net6.0\Demo_Dal.deps.json
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\bin\Debug\net6.0\Demo_Dal.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\bin\Debug\net6.0\Demo_Dal.pdb
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.csproj.AssemblyReference.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.AssemblyInfoInputs.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.AssemblyInfo.cs
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.csproj.CoreCompileInputs.cache
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\refint\Demo_Dal.dll
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\Demo_Dal.pdb
+E:\Back-End\MVC\Demo\MVCDemo03\Demo_PL\Demo_Dal\obj\Debug\net6.0\ref\Demo_Dal.dll
